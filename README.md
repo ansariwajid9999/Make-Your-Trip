@@ -1,8 +1,6 @@
-# Make-Your-Trip
-• Developed a make your trip, Web-based travel management platform.
-• Implemented end-to-end flight booking functionality, allowing users
-to search, and book flights seamlessly.
-• Designed and implemented database system for storing multiple
-routes, transportation options, flights, and buses.
-• Developed multiple RESTful APIs for seamless communication
-between the application and external systems.
+# Ticket Tripper  Tech Stack - Spring Boot , Hibernate , Postman , MySQl , Java , Swagger , Java mail library
+
+## Developed a comprehensive travel management platform which facilitating seamless end-to-end flight booking.
+## Incorporated Email integration to enhance user communication.The whole architecture is built in a Monolithic way.
+## Designed and implemented a MySQL database system to store diverse routes, transportation and flights.
+## Engineered multiple RESTful APIs to ensure seamless communication between the application and user.
