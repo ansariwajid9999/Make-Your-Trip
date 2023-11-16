@@ -1,4 +1,4 @@
-# Ticket Tripper  Tech Stack - Spring Boot , Hibernate , Postman , MySQl , Java , Swagger , Java mail library
+# Ticket Tripper -> Tech Stack - Spring Boot , Hibernate , Postman , MySQl , Java , Swagger , Java mail library
 
 ## Developed a comprehensive travel management platform which facilitating seamless end-to-end flight booking.
 ## Incorporated Email integration to enhance user communication.The whole architecture is built in a Monolithic way.
